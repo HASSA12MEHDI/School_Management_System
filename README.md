@@ -1,14 +1,14 @@
-# School_Management_System
+School_Management_System
 School management system on aspx and c#
 # 🏫 School Management System
 
-## 📘 Overview
+📘 Overview
 The **School Management System** is an ASP.NET Web Forms–based web application designed to help manage key school operations including attendance, teacher and student records, fee management, and budgeting.  
 It uses **SQL Server** as the backend database and includes several modules that work together for smooth administration.
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 - 📚 **Student Management** – Add, update, and view student details.  
 - 👩‍🏫 **Teacher Management** – Manage teacher information, salaries, and related data.  
 - 💰 **Fee Management** – Handle student fee payments, pending balances, and receipts.  
@@ -18,7 +18,7 @@ It uses **SQL Server** as the backend database and includes several modules that
 
 ---
 
-## ⚙️ Technologies Used
+Technologies Used
 - **Frontend:** ASP.NET Web Forms, HTML5, CSS3, JavaScript  
 - **Backend:** C# (.NET Framework)  
 - **Database:** SQL Server (LocalDB or full SQL Server)  
@@ -26,21 +26,26 @@ It uses **SQL Server** as the backend database and includes several modules that
 
 ---
 
-## 🗂️ Project Structure
+ 🗂️ Project Structure
 School_Management_System/
 │
 ├── App_Data/ # Database files (.mdf, .ldf)
+
 ├── Pages/ # ASPX pages for modules (Students, Teachers, Budget, etc.)
+
 ├── Scripts/ # JavaScript / jQuery scripts
+
 ├── Styles/ # CSS files for page design
+
 ├── Web.config # Application configuration file
+
 └── README.md # Project documentation
 
 
 
 ---
 
-## 💾 Database Setup
+💾 Database Setup
 1. Open **SQL Server Management Studio (SSMS)** or **Visual Studio Server Explorer**.  
 2. Attach the provided `.mdf` database file from `App_Data/`.  
 3. Update the connection string in `Web.config` if needed:
