@@ -1,0 +1,5 @@
+﻿RollNumber,FirstName,LastName,Email,Phone,ClassId,Status,AdmissionDate
+STD0001,Hassan,Mehdi,Hassan12@gmail.com,03293731988,1,Active,2025-10-05
+STD0002,Intezar,Mehdi,Intezar12@gmail.com,03247969074,1,Active,2025-10-05
+STD0003,Sakander,Ali,Sakander1@gmail.com,03422789657,4,Active,2025-10-05
+STD0004,Shakir,Abbas,shakir12@gmail.com,03413365693,19,Active,2025-10-13

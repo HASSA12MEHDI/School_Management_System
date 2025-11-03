@@ -1,0 +1,850 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programs wbd\\School_Managenment_System12.00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|c:\\programs wbd\\school_managenment_system12.00\\school_managenment_system12.00\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feepayment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feepayment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|c:\\programs wbd\\school_managenment_system12.00\\school_managenment_system12.00\\attendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\attendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|c:\\programs wbd\\school_managenment_system12.00\\school_managenment_system12.00\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\financedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\financedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\attendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\attendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\add_teachers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\add_teachers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\add_teachers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\add_teachers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\add_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\add_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\achievements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\achievements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\achievements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\achievements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\view_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\view_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feeconcessions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feeconcessions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\expenses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\expenses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\veiw_classes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\veiw_classes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\attendance_reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\attendance_reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\attendance_reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\attendance_reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\financedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\financedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feepayment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feepayment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feestructure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feestructure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feestructure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feestructure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hassan Mehdi\\AppData\\Local\\Temp\\ji5ifxqx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\view_alltransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\view_alltransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\view_alltransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\view_alltransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\exams\\financialsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\exams\\financialsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\viewbudgets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\viewbudgets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\viewbudgets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\viewbudgets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetalerts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetalerts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\feeconcessions.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\feeconcessions.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetalerts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetalerts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\budgetform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\budgetform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\incomemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\incomemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\incomemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\incomemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\viewresults.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\viewresults.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\viewresults.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\viewresults.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\teacher_add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\teacher_add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\subject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\subject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|C:\\Programs wbd\\School_Managenment_System12.00\\school_managenment_system12.00\\achievements.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378560BD-2327-46CB-95E3-907FBBE5975D}|School_Managenment_System12.00\\School_Managenment_System12.00.csproj|solutionrelative:school_managenment_system12.00\\achievements.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Dashboard.aspx.cs*",
+              "RelativeToolTip": "School_Managenment_System12.00\\Dashboard.aspx.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:47:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Site1.Master.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site1.Master.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Site1.Master.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:47:29.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Attendance.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Attendance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T13:31:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Dashboard.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Dashboard.aspx*",
+              "RelativeToolTip": "School_Managenment_System12.00\\Dashboard.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T09:13:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeePayment.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeePayment.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeePayment.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeePayment.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeePayment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:39:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendance.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Attendance.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Attendance.aspx.cs",
+              "ViewState": "AgIAAJgCAAAAAAAAAAAuwK4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:35:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add_Teachers.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Teachers.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Add_Teachers.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Teachers.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Add_Teachers.aspx.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAHcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:45:23.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinanceDashboard.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FinanceDashboard.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FinanceDashboard.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FinanceDashboard.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\FinanceDashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T09:21:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add_Teachers.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Teachers.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Add_Teachers.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Teachers.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Add_Teachers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T05:45:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Web.config",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Web.config",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Web.config",
+              "RelativeToolTip": "School_Managenment_System12.00\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-03T06:15:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add_Student.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Student.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Add_Student.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Add_Student.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Add_Student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T05:37:56.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Achievements.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Achievements.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Achievements.aspx.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAAwFkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:25:22.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Expenses.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Expenses.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Expenses.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Expenses.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Expenses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:38:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeeConcessions.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeConcessions.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeeConcessions.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeConcessions.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeeConcessions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:38:35.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View_Student.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_Student.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\View_Student.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_Student.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\View_Student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Achievements.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Achievements.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Achievements.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T01:38:57.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Staff.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Staff.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Staff.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Staff.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Staff.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T01:33:44.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Staff.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Staff.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Staff.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Staff.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Staff.aspx.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAuwAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:34:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Veiw_Classes.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Veiw_Classes.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Veiw_Classes.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Veiw_Classes.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Veiw_Classes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Attendance_Reports.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance_Reports.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Attendance_Reports.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance_Reports.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Attendance_Reports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T14:02:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attendance_Reports.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance_Reports.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Attendance_Reports.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Attendance_Reports.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Attendance_Reports.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAApwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:06:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FinanceDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FinanceDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FinanceDashboard.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FinanceDashboard.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\FinanceDashboard.aspx.cs",
+              "ViewState": "AgIAAGMEAAAAAAAAAAApwCQEAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:30:01.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site1.Master",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Site1.Master",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site1.Master",
+              "RelativeToolTip": "School_Managenment_System12.00\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T13:44:28.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeeStructure.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeStructure.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeeStructure.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeStructure.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeeStructure.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:39:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeeStructure.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeStructure.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeeStructure.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeStructure.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeeStructure.aspx.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAAAFUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:39:13.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FeePayment.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeePayment.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeePayment.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeePayment.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeePayment.aspx.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAwBoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:38:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site2.Master",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Site2.Master",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site2.Master",
+              "RelativeToolTip": "School_Managenment_System12.00\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T12:25:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BudgetReports.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetReports.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetReports.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetReports.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetReports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-25T15:57:43.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BudgetReports.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetReports.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetReports.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetReports.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetReports.aspx.cs",
+              "ViewState": "AgIAAO8CAAAAAAAAAAAQwAEDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:16:58.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ji5ifxqx..sql",
+              "DocumentMoniker": "C:\\Users\\Hassan Mehdi\\AppData\\Local\\Temp\\ji5ifxqx..sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Hassan Mehdi\\AppData\\Local\\Temp\\ji5ifxqx..sql",
+              "ToolTip": "C:\\Users\\Hassan Mehdi\\AppData\\Local\\Temp\\ji5ifxqx..sql",
+              "RelativeToolTip": "..\\..\\Users\\Hassan Mehdi\\AppData\\Local\\Temp\\ji5ifxqx..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-02T12:07:00.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "View_AllTransaction.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_AllTransaction.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\View_AllTransaction.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_AllTransaction.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\View_AllTransaction.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "View_AllTransaction.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_AllTransaction.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\View_AllTransaction.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\View_AllTransaction.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\View_AllTransaction.aspx.cs",
+              "ViewState": "AgIAABsDAAAAAAAAAAAAACYDAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:45:11.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FinancialSummary.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Exams\\FinancialSummary.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Exams\\FinancialSummary.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Exams\\FinancialSummary.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Exams\\FinancialSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:31:44.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewBudgets.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewBudgets.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\ViewBudgets.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewBudgets.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\ViewBudgets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-01T06:27:13.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\WebForm1.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\WebForm1.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-02T09:08:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ViewBudgets.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewBudgets.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\ViewBudgets.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewBudgets.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\ViewBudgets.aspx.cs",
+              "ViewState": "AgIAAIYCAAAAAAAAAAAQwJ4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:25:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BudgetAlerts.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetAlerts.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetAlerts.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetAlerts.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetAlerts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-25T16:34:17.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeeConcessions.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeConcessions.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\FeeConcessions.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\FeeConcessions.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\FeeConcessions.aspx.cs",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAowJsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:38:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BudgetAlerts.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetAlerts.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetAlerts.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetAlerts.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetAlerts.aspx.cs",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAAwKMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:34:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BudgetForm.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetForm.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetForm.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetForm.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-31T14:13:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BudgetForm.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetForm.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\BudgetForm.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\BudgetForm.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\BudgetForm.aspx.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:27:49.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IncomeManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\IncomeManagement.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\IncomeManagement.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\IncomeManagement.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\IncomeManagement.aspx.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAIIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:24:29.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IncomeManagement.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\IncomeManagement.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\IncomeManagement.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\IncomeManagement.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\IncomeManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-31T13:11:42.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Site2.Master.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site2.Master.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Site2.Master.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Site2.Master.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Site2.Master.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:06:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ViewResults.aspx.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewResults.aspx.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\ViewResults.aspx.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewResults.aspx.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\ViewResults.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:46:53.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ViewResults.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewResults.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\ViewResults.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\ViewResults.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\ViewResults.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Teacher_Add.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Teacher_Add.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Teacher_Add.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Teacher_Add.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Teacher_Add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Subject.aspx",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Subject.aspx",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Subject.aspx",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Subject.aspx",
+              "RelativeToolTip": "School_Managenment_System12.00\\Subject.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T07:44:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Achievements.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx.designer.cs",
+              "RelativeDocumentMoniker": "School_Managenment_System12.00\\Achievements.aspx.designer.cs",
+              "ToolTip": "C:\\Programs wbd\\School_Managenment_System12.00\\School_Managenment_System12.00\\Achievements.aspx.designer.cs",
+              "RelativeToolTip": "School_Managenment_System12.00\\Achievements.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:25:35.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="School_Managenment_System12._00.Site1" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Management System</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #4361ee;
+            --secondary: #3a0ca3;
+            --success: #4cc9f0;
+            --warning: #f8961e;
+            --danger: #e63946;
+            --dark: #1d3557;
+            --light: #f8f9fa;
+            --sidebar-width: 280px;
+            --topbar-height: 70px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: linear-gradient(180deg, var(--dark) 0%, #14213d 100%);
+            color: white;
+            height: 100vh;
+            position: fixed;
+            top: 0;
+            left: 0;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 8px 0 25px rgba(0,0,0,0.15);
+            z-index: 1000;
+            transition: var(--transition);
+            border-right: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .logo-container {
+            padding: 25px 20px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .logo {
+            font-size: 26px;
+            font-weight: 800;
+            color: white;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            transition: var(--transition);
+        }
+
+        .logo:hover {
+            transform: translateY(-2px);
+        }
+
+        .logo i {
+            color: var(--success);
+            font-size: 28px;
+        }
+
+        .sidebar-nav {
+            flex: 1;
+            padding: 20px 0;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(255,255,255,0.3) transparent;
+        }
+
+        .sidebar-nav::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .sidebar-nav::-webkit-scrollbar-thumb {
+            background: rgba(255,255,255,0.3);
+            border-radius: 10px;
+        }
+
+        .nav-section {
+            margin: 15px 0;
+        }
+
+        .section-label {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(255,255,255,0.5);
+            padding: 0 25px 10px;
+            font-weight: 600;
+        }
+
+        .nav-item {
+            margin: 4px 15px;
+        }
+
+        .nav-link {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 14px 20px;
+            color: rgba(255,255,255,0.85);
+            text-decoration: none;
+            border-radius: 12px;
+            transition: var(--transition);
+            font-weight: 500;
+            font-size: 15px;
+            position: relative;
+            border: 1px solid transparent;
+        }
+
+        .nav-link:hover {
+            background: rgba(255,255,255,0.08);
+            color: white;
+            transform: translateX(8px);
+            border-color: rgba(255,255,255,0.1);
+        }
+
+        .nav-link.active {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            box-shadow: 0 6px 20px rgba(67, 97, 238, 0.4);
+            border-color: rgba(255,255,255,0.2);
+        }
+
+        .nav-link i {
+            width: 20px;
+            text-align: center;
+            font-size: 18px;
+            transition: var(--transition);
+        }
+
+        .nav-link.active i {
+            transform: scale(1.1);
+        }
+
+        /* Main Container */
+        .main-container {
+            margin-left: var(--sidebar-width);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            transition: var(--transition);
+            background: rgba(248, 249, 250, 0.95);
+        }
+
+        /* Topbar */
+        .topbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(255,255,255,0.98);
+            backdrop-filter: blur(20px);
+            padding: 0 35px;
+            height: var(--topbar-height);
+            box-shadow: 0 4px 25px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 0;
+            z-index: 999;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .page-title {
+            font-size: 26px;
+            font-weight: 700;
+            color: var(--dark);
+            margin: 0;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .topbar-controls {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .user-details {
+            text-align: right;
+        }
+
+        .user-name {
+            font-weight: 700;
+            color: var(--dark);
+            font-size: 15px;
+        }
+
+        .user-role {
+            font-size: 13px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .profile-pic {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid var(--success);
+            cursor: pointer;
+            transition: var(--transition);
+            box-shadow: 0 4px 15px rgba(76, 201, 240, 0.3);
+        }
+
+        .profile-pic:hover {
+            transform: scale(1.08);
+            box-shadow: 0 6px 25px rgba(76, 201, 240, 0.5);
+            border-color: var(--primary);
+        }
+
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            padding: 35px;
+            background: transparent;
+        }
+
+        .content-card {
+            background: white;
+            border-radius: 20px;
+            padding: 35px;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            border: 1px solid rgba(0,0,0,0.03);
+            backdrop-filter: blur(10px);
+            transition: var(--transition);
+        }
+
+        .content-card:hover {
+            box-shadow: 0 15px 50px rgba(0,0,0,0.15);
+            transform: translateY(-2px);
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            background: linear-gradient(135deg, var(--dark) 0%, #0d1b2a 100%);
+            color: white;
+            padding: 25px;
+            margin-top: auto;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 25px;
+        }
+
+        .footer-links a {
+            color: rgba(255,255,255,0.7);
+            text-decoration: none;
+            transition: var(--transition);
+            font-weight: 500;
+        }
+
+        .footer-links a:hover {
+            color: var(--success);
+            transform: translateY(-2px);
+        }
+
+        /* Mobile Menu Button */
+        .mobile-menu-btn {
+            display: none;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            border: none;
+            color: white;
+            font-size: 20px;
+            cursor: pointer;
+            padding: 12px;
+            border-radius: 12px;
+            transition: var(--transition);
+            box-shadow: 0 4px 15px rgba(67, 97, 238, 0.3);
+        }
+
+        .mobile-menu-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(67, 97, 238, 0.4);
+        }
+
+        /* Badge for notifications */
+        .nav-badge {
+            position: absolute;
+            top: 8px;
+            right: 12px;
+            background: var(--danger);
+            color: white;
+            border-radius: 10px;
+            padding: 2px 8px;
+            font-size: 10px;
+            font-weight: 700;
+            min-width: 18px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(230, 57, 70, 0.4);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .sidebar {
+                width: 240px;
+            }
+            
+            .main-container {
+                margin-left: 240px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+                width: 280px;
+            }
+
+            .main-container {
+                margin-left: 0;
+            }
+
+            .sidebar.active {
+                transform: translateX(0);
+            }
+
+            .topbar {
+                padding: 0 20px;
+            }
+
+            .main-content {
+                padding: 20px;
+            }
+
+            .content-card {
+                padding: 25px;
+                border-radius: 16px;
+            }
+
+            .mobile-menu-btn {
+                display: block;
+            }
+
+            .user-details {
+                display: none;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .footer-links {
+                gap: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .topbar {
+                padding: 0 15px;
+            }
+
+            .main-content {
+                padding: 15px;
+            }
+
+            .content-card {
+                padding: 20px;
+            }
+
+            .page-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar">
+            <div class="logo-container">
+                <a href="Dashboard.aspx" class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>EduManage Pro</span>
+                </a>
+            </div>
+
+            <nav class="sidebar-nav">
+                <!-- Main Navigation -->
+                <div class="nav-section">
+                    <div class="section-label">Main</div>
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkDashboard" runat="server" CausesValidation="false" CssClass="nav-link" PostBackUrl="~/Dashboard.aspx">
+                            <i class="fas fa-tachometer-alt"></i>
+                            <span>Dashboard</span>
+                        </asp:LinkButton>
+                    </div>
+                </div>
+
+                <!-- People Management -->
+                <div class="nav-section">
+                    <div class="section-label">People</div>
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkStudents" runat="server" CausesValidation="false" CssClass="nav-link" PostBackUrl="~/Add_Student.aspx">
+                            <i class="fas fa-user-graduate"></i>
+                            <span>Students</span>
+                        </asp:LinkButton>
+                    </div>
+                    
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkTeachers" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Add_Teachers.aspx">
+                            <i class="fas fa-chalkboard-teacher"></i>
+                            <span>Teachers</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkStaff" runat="server" CausesValidation="false" CssClass="nav-link" PostBackUrl="~/Staff.aspx">
+                            <i class="fas fa-users"></i>
+                            <span>Staff Management</span>
+                        </asp:LinkButton>
+                    </div>
+                </div>
+
+                <!-- Academic Management -->
+                <div class="nav-section">
+                    <div class="section-label">Academic</div>
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkClasses" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Classes.aspx">
+                            <i class="fas fa-door-open"></i>
+                            <span>Classes</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkSubject" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Subject.aspx">
+                            <i class="fas fa-book-open"></i>
+                            <span>Subjects</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkAttendance" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Attendance.aspx">
+                            <i class="fas fa-calendar-check"></i>
+                            <span>Attendance</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkExams" runat="server" CausesValidation="false" CssClass="nav-link" PostBackUrl="~/Exams.aspx">
+                            <i class="fas fa-file-alt"></i>
+                            <span>Exams</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkResults" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Results.aspx">
+                            <i class="fas fa-chart-line"></i>
+                            <span>Results</span>
+                        </asp:LinkButton>
+                    </div>
+                </div>
+
+                <!-- Resources & Finance -->
+                <div class="nav-section">
+                    <div class="section-label">Resources</div>
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkLibrary" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/LibraryDashboard.aspx">
+                            <i class="fas fa-book"></i>
+                            <span>Library</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkFinance" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/FinanceDashboard.aspx">
+                            <i class="fas fa-money-bill-wave"></i>
+                            <span>Finance</span>
+                            <span class="nav-badge">3</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkBudgetAlerts" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/BudgetAlerts.aspx">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            <span>Budget Alerts</span>
+                            <span class="nav-badge">5</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkAchievements" runat="server" CausesValidation="false" CssClass="nav-link" PostBackUrl="~/Achievements.aspx">
+                            <i class="fas fa-trophy"></i>
+                            <span>Achievements</span>
+                        </asp:LinkButton>
+                    </div>
+                </div>
+
+                <!-- User Section -->
+                <div class="nav-section" style="margin-top: auto;">
+                    <div class="section-label">User</div>
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkProfile" CausesValidation="false" runat="server" CssClass="nav-link" PostBackUrl="~/Profile_Setting.aspx">
+                            <i class="fas fa-user-cog"></i>
+                            <span>Profile Settings</span>
+                        </asp:LinkButton>
+                    </div>
+
+                    <div class="nav-item">
+                        <asp:LinkButton ID="lnkLogout" CausesValidation="false" runat="server" CssClass="nav-link" OnClick="lnkLogout_Click">
+                            <i class="fas fa-sign-out-alt"></i>
+                            <span>Logout</span>
+                        </asp:LinkButton>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <!-- Main Container -->
+        <div class="main-container">
+            <!-- Topbar -->
+            <div class="topbar">
+                <button class="mobile-menu-btn" id="mobileMenuBtn" type="button">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <h1 class="page-title">
+                    <asp:Label ID="lblPageTitle" runat="server" Text="School Management System"></asp:Label>
+                </h1>
+
+                <div class="topbar-controls">
+                    <div class="user-info">
+                        <div class="user-details">
+                            <div class="user-name">
+                                <asp:Label ID="lblUserName" runat="server" Text="Welcome, Admin"></asp:Label>
+                            </div>
+                            <div class="user-role">
+                                <asp:Label ID="lblUserRole" runat="server" Text="Administrator"></asp:Label>
+                            </div>
+                        </div>
+                        <asp:ImageButton ID="ProfilePic" runat="server"
+                            ImageUrl="~/images/default-profile.png"
+                            CssClass="profile-pic"
+                            OnClick="ProfilePic_Click"
+                            AlternateText="Profile" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="main-content">
+                <div class="content-card">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <div class="footer">
+                <div class="footer-content">
+                    <div>© 2025 EduManage Pro System. All Rights Reserved.</div>
+                    <div class="footer-links">
+                        <a href="#"><i class="fas fa-shield-alt"></i> Privacy Policy</a>
+                        <a href="#"><i class="fas fa-file-contract"></i> Terms of Service</a>
+                        <a href="#"><i class="fas fa-headset"></i> Contact Support</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script>
+        // Enhanced mobile menu functionality
+        document.getElementById('mobileMenuBtn').addEventListener('click', function (e) {
+            e.stopPropagation();
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('active');
+
+            // Add overlay when sidebar is active
+            if (sidebar.classList.contains('active')) {
+                createOverlay();
+            } else {
+                removeOverlay();
+            }
+        });
+
+        function createOverlay() {
+            const overlay = document.createElement('div');
+            overlay.id = 'sidebar-overlay';
+            overlay.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.5);
+                backdrop-filter: blur(5px);
+                z-index: 999;
+                transition: all 0.3s ease;
+            `;
+            overlay.addEventListener('click', closeSidebar);
+            document.body.appendChild(overlay);
+        }
+
+        function removeOverlay() {
+            const overlay = document.getElementById('sidebar-overlay');
+            if (overlay) {
+                overlay.remove();
+            }
+        }
+
+        function closeSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.remove('active');
+            removeOverlay();
+        }
+
+        // Add active class to current page link
+        document.addEventListener('DOMContentLoaded', function () {
+            const currentPage = window.location.pathname.split('/').pop().toLowerCase();
+            const navLinks = document.querySelectorAll('.nav-link');
+
+            navLinks.forEach(link => {
+                const href = link.getAttribute('href') || '';
+                const postbackUrl = link.getAttribute('postbackurl') || '';
+
+                if (href.toLowerCase().includes(currentPage) ||
+                    postbackUrl.toLowerCase().includes(currentPage)) {
+                    link.classList.add('active');
+                }
+            });
+
+            // Close sidebar when window is resized above mobile breakpoint
+            window.addEventListener('resize', function () {
+                if (window.innerWidth > 768) {
+                    closeSidebar();
+                }
+            });
+
+            // Smooth scrolling for sidebar
+            const sidebarNav = document.querySelector('.sidebar-nav');
+            sidebarNav.addEventListener('wheel', function (e) {
+                e.preventDefault();
+                this.scrollTop += e.deltaY;
+            });
+        });
+
+        // Add ripple effect to buttons
+        document.addEventListener('click', function (e) {
+            if (e.target.matches('.nav-link, .mobile-menu-btn, .profile-pic')) {
+                const ripple = document.createElement('span');
+                const rect = e.target.getBoundingClientRect();
+                const size = Math.max(rect.width, rect.height);
+                const x = e.clientX - rect.left - size / 2;
+                const y = e.clientY - rect.top - size / 2;
+
+                ripple.style.cssText = `
+                    position: absolute;
+                    border-radius: 50%;
+                    background: rgba(255,255,255,0.6);
+                    transform: scale(0);
+                    animation: ripple 0.6s linear;
+                    pointer-events: none;
+                    width: ${size}px;
+                    height: ${size}px;
+                    left: ${x}px;
+                    top: ${y}px;
+                `;
+
+                e.target.style.position = 'relative';
+                e.target.style.overflow = 'hidden';
+                e.target.appendChild(ripple);
+
+                setTimeout(() => ripple.remove(), 600);
+            }
+        });
+
+        // Add ripple animation
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes ripple {
+                to {
+                    transform: scale(4);
+                    opacity: 0;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
